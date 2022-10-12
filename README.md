@@ -1,8 +1,3 @@
-<h1>Hi There 👋</h1>
-
-
-<h3>My name is Mac <br /> <br />I am a Full-Stack Developer with a passion for immersive web experiences.<h3>
-<br />
 
 
 <h2>My Tech</h2>
