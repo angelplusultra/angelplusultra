@@ -2,6 +2,19 @@
 
 My name is Mac and I am a Full-Stack Developer with a passion for immersive web experiences.
 
+-HTML <br />
+-CSS <br />
+-JavaScript <br />
+-React <br />
+-TypeScript <br />
+-Node <br />
+-Express <br />
+-MongoDB <br />
+-TailwindCSS <br />
+-Threejs <br />
+
+
+
 
 
 <!--
