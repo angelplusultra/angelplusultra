@@ -1,11 +1,11 @@
 <h1>Hi There 👋</h1>
 
 
-<h2>My name is Mac <br /> <br />I am a Full-Stack Developer with a passion for immersive web experiences.<h2>
+<h3>My name is Mac <br /> <br />I am a Full-Stack Developer with a passion for immersive web experiences.<h3>
 <br />
 
 
-<h1>Tech Stack</h1>
+<h2>Tech Stack</h2>
 
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&svgfill=e34c26&logo=HTML5)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=264de4)](https://github.com/harish-sethuraman/readme-components)
