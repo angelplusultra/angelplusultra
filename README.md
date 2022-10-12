@@ -11,6 +11,7 @@
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=264de4)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f0db4f)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=007acc)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=EJS&fill=black&svgfill=EA7600)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&svgfill=15d8fe)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&svgfill=659b60&logo=node.js)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongoDB&fill=black&svgfill=3FA037)](https://github.com/harish-sethuraman/readme-components)
@@ -20,6 +21,8 @@
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Blender&fill=black&svgfill=EA7600)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=WebGL&fill=black&svgfill=EA7600)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=UnrealEngine&fill=black&svgfill=EA7600)](https://github.com/harish-sethuraman/readme-components)
+
+
 
 
 
