@@ -21,6 +21,10 @@
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Blender&fill=black&svgfill=EA7600)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=WebGL&fill=black&svgfill=EA7600)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=UnrealEngine&fill=black&svgfill=EA7600)](https://github.com/harish-sethuraman/readme-components)
+  [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=AdobePremierePro&fill=black&svgfill=EA7600)](https://github.com/harish-sethuraman/readme-components)
+    [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=AbletonLive&fill=black&svgfill=EA7600)](https://github.com/harish-sethuraman/readme-components)
+
+
 
 
 
