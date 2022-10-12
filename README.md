@@ -9,7 +9,6 @@ My name is Mac and I am a Full-Stack Developer with a passion for immersive web 
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=007acc)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&svgfill=15d8fe)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&svgfill=659b60&logo=node.js)](https://github.com/harish-sethuraman/readme-components)
-
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongodb&fill=black&svgfill=3FA037)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=TailwindCSS&fill=black&svgfill=3490dc)](https://github.com/harish-sethuraman/readme-components)
 
