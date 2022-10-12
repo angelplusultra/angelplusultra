@@ -5,7 +5,7 @@
 <br />
 
 
-<h2>Tech Stack</h2>
+<h2>My Tech</h2>
 
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&svgfill=e34c26&logo=HTML5)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=264de4)](https://github.com/harish-sethuraman/readme-components)
