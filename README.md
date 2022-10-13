@@ -1,8 +1,17 @@
-<h1></h1>
+<h1>Hi I'm Mac</h1> <br />
+
+<h3 align=center>I'm a Full-Stack Developer based in Los Angeles with a passion for immersive web experiences and technologies</h3> <br />
+<p align=center> 📫 How to reach me: <br/> -macfittondev@gmail.com <br /> -https://twitter.com/HalcyonSkyDev</p>
+<p align=center>👯 I’m looking to collaborate on: </br>WebGL or Game Development Projects</p> <br/>
+
 
 <section align="center">
-<img  src="https://user-images.githubusercontent.com/106866560/195615788-d1d15b9d-46d4-4bcc-8fda-a2dd235a0d9f.svg" />
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelplusultra&hide=CSS,HTML&layout=compact" />
 </section>
+<br /> 
+
+
 
 
 <h2>My Tech</h2>
