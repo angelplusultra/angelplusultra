@@ -1,8 +1,8 @@
+<h1></h1>
 
-
-  ![large align="center"](https://user-images.githubusercontent.com/106866560/195614863-39ee9917-d535-42ae-972a-51f8fa9f2eda.svg)
-
- 
+<section align="center">
+<img  src="https://user-images.githubusercontent.com/106866560/195615788-d1d15b9d-46d4-4bcc-8fda-a2dd235a0d9f.svg" />
+</section>
 
 
 <h2>My Tech</h2>
