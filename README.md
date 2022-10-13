@@ -1,5 +1,10 @@
 
 
+  ![large align="center"](https://user-images.githubusercontent.com/106866560/195614863-39ee9917-d535-42ae-972a-51f8fa9f2eda.svg)
+
+ 
+
+
 <h2>My Tech</h2>
 
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&svgfill=e34c26&logo=HTML5)](https://github.com/harish-sethuraman/readme-components)
