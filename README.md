@@ -6,7 +6,9 @@
 <h3 align=center>I'm a Full-Stack Developer based in Los Angeles with a passion for immersive web experiences and technologies</h3> <br />
 <p align=center> 📫 How to reach me: <br/> -macfittondev@gmail.com <br /> -https://twitter.com/HalcyonSkyDev</p>
 <p align=center>👯 I’m looking to collaborate on: </br>WebGL or Game Development Projects</p> <br/>
-
+<section align=center>
+<img src="https://www.codewars.com/users/angelplusultra/badges/large"/>
+</section>
 </br>
 <section align=center >
 
