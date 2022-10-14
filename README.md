@@ -13,7 +13,7 @@
 <section align=center >
 
 <img width=400  src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelplusultra&hide=CSS,HTML&layout=compact" />
-<img width=400 src="https://github-readme-stats.vercel.app/api/wakatime?username=angelplusultra" />
+<img height="200" width=400 src="https://github-readme-stats.vercel.app/api/wakatime?username=angelplusultra" />
   
 
 
@@ -23,7 +23,7 @@
 
 
 
-<h2>My Tech</h2>
+<h2>Technologies</h2>
 
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&svgfill=e34c26&logo=HTML5)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=264de4)](https://github.com/harish-sethuraman/readme-components)
