@@ -6,9 +6,9 @@
 
 </br>
 <section align="center">
-
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=angelplusultra" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelplusultra&hide=CSS,HTML&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=angelplusultra" />
+  
 
 
 </section>
