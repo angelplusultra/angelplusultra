@@ -1,4 +1,4 @@
-<h1 align=center>H! 👋</h1> <br />
+<h1 align=center>Hi! 👋</h1> <br />
 
 <section align=center>
 <img width=150 src="https://user-images.githubusercontent.com/106866560/195751139-bd2ce168-fb35-4cf8-818a-49bd49be0602.png" />
