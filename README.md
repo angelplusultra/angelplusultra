@@ -8,9 +8,10 @@
 <p align=center>👯 I’m looking to collaborate on: </br>WebGL or Game Development Projects</p> <br/>
 
 </br>
-<section >
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=angelplusultra" />
+<section align=center >
+
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelplusultra&hide=CSS,HTML&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=angelplusultra" />
   
 
 
