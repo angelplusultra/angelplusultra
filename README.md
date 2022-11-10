@@ -14,8 +14,7 @@
 
 <img width=400  src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelplusultra&hide=CSS,HTML&layout=compact" />
 <!-- <img height="200" width=400 src="https://github-readme-stats.vercel.app/api/wakatime?username=angelplusultra" /> -->
-  
-
+ 
 
 </section>
 <br /> 
@@ -25,26 +24,21 @@
 
 <h2>Technologies</h2>
 
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&svgfill=e34c26&logo=HTML5)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=264de4)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f0db4f)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=007acc)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=EJS&fill=black&svgfill=EA7600)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&svgfill=15d8fe)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&svgfill=659b60&logo=node.js)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongoDB&fill=black&svgfill=3FA037)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=TailwindCSS&fill=black&svgfill=3490dc)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Sass&fill=black&svgfill=EA7600)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Webpack&fill=black&svgfill=8ED5FA)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Blender&fill=black&svgfill=EA7600)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=WebGL&fill=black&svgfill=EA7600)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=UnrealEngine&fill=black&svgfill=EA7600)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=AdobePremierePro&fill=black&svgfill=EA7600)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=AbletonLive&fill=black&svgfill=EA7600)](https://github.com/harish-sethuraman/readme-components)
+<h3>Front-End</h3>
 
 
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /> <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/react" /><img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" /><img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/threedotjs/white" />
+<h3>Back-End</h3>
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/node.js" /> <img height="32" width="32" src="https://cdn.simpleicons.org/express/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" /><img height="32" width="32" src="https://cdn.simpleicons.org/passport" /><img height="32" width="32" src="https://cdn.simpleicons.org/npm" /> <img height="32" width="32" src="https://cdn.simpleicons.org/nodemon" /><img height="32" width="32" src="https://cdn.simpleicons.org/handlebarsdotjs/orange" /> <img height="32" width="32" src="https://cdn.simpleicons.org/heroku" />
 
 
+<h3>Other</h3>
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/blender" /> <img height="32" width="32" src="https://cdn.simpleicons.org/abletonlive/white" />
 
 
 
