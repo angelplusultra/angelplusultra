@@ -5,12 +5,18 @@
 </section>
   </div>
 
-<h3 align=center>MERN</h3> 
+<h3 align=center>MERN⚔️</h3> 
 <h3 align=center>Vimpill victim 🥴 ⌨️</h3> 
 <h3 align=center>Occasional threejs/R3F dev🌐</h3> 
 <p align=center> 📫 How to reach me: <br/> -macfittondev@gmail.com <br /> -https://twitter.com/HalcyonSkyDev</p>
 
+
+
+<div align="center">
+<section style="display: flex;">
 <img src="https://www.codewars.com/users/angelplusultra/badges/large"/>
+</section>
+
   
 
 </br>
