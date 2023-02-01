@@ -4,7 +4,10 @@
 <img width=150 src="https://user-images.githubusercontent.com/106866560/195751139-bd2ce168-fb35-4cf8-818a-49bd49be0602.png" />
 </section>
   </div>
-<h3 align=center>I'm a Full-Stack Developer based in Los Angeles with a passion for immersive web experiences and technologies</h3> <br />
+
+<h3 align=center>MERN</h3> 
+<h3 align=center>Vimpill victim 🥴 ⌨️</h3> 
+<h3 align=center>Occasional threejs/R3F dev🌐</h3> 
 <p align=center> 📫 How to reach me: <br/> -macfittondev@gmail.com <br /> -https://twitter.com/HalcyonSkyDev</p>
 <p align=center>👯 I’m looking to collaborate on: </br>WebGL or Game Development Projects</p> <br/>
 
