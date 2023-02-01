@@ -9,7 +9,6 @@
 <h3 align=center>Vimpill victim 🥴 ⌨️</h3> 
 <h3 align=center>Occasional threejs/R3F dev🌐</h3> 
 <p align=center> 📫 How to reach me: <br/> -macfittondev@gmail.com <br /> -https://twitter.com/HalcyonSkyDev</p>
-<p align=center>👯 I’m looking to collaborate on: </br>WebGL or Game Development Projects</p> <br/>
 
 <img src="https://www.codewars.com/users/angelplusultra/badges/large"/>
   
