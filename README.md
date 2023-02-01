@@ -10,38 +10,35 @@
 <img src="https://www.codewars.com/users/angelplusultra/badges/large"/>
 </section>
 </br>
-<section align=center >
 
-<img width=400  src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelplusultra&hide=CSS,HTML&layout=compact" />
-<!-- <img height="200" width=400 src="https://github-readme-stats.vercel.app/api/wakatime?username=angelplusultra" /> -->
- 
-
-</section>
 <br /> 
 
 
 
 
 <h2>Technologies</h2>
-
-<h3>Front-End</h3>
-
-
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /> <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/react" /><img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" /><img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/threedotjs/white" />
-<h3>Back-End</h3>
-
-<img height="32" width="32" src="https://cdn.simpleicons.org/node.js" /> <img height="32" width="32" src="https://cdn.simpleicons.org/express/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" /><img height="32" width="32" src="https://cdn.simpleicons.org/passport" /><img height="32" width="32" src="https://cdn.simpleicons.org/npm" /> <img height="32" width="32" src="https://cdn.simpleicons.org/nodemon" /><img height="32" width="32" src="https://cdn.simpleicons.org/handlebarsdotjs/orange" /> <img height="32" width="32" src="https://cdn.simpleicons.org/heroku" />
-
-
+<div align="center">
+<section  style="display: flex; ">
+<img height="50" width="50" src="https://cdn.simpleicons.org/html5" /> <img height="50" width="50" src="https://cdn.simpleicons.org/css3" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/javascript" /> <img height="50" width="50" src="https://cdn.simpleicons.org/typescript" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/react" /><img height="50" width="50" src="https://cdn.simpleicons.org/tailwindcss" /><img height="50" width="50" src="https://cdn.simpleicons.org/bootstrap" /><img height="50" width="50" src="https://cdn.simpleicons.org/mui" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/threedotjs/white" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/node.js" /> <img height="50" width="50" src="https://cdn.simpleicons.org/express/white" /><img height="50" width="50" src="https://cdn.simpleicons.org/mongodb" /><img height="50" width="50" src="https://cdn.simpleicons.org/passport" /><img height="50" width="50" src="https://cdn.simpleicons.org/npm" /><img height="50" width="50" src="https://cdn.simpleicons.org/yarn" />  <img height="50" width="50" src="https://cdn.simpleicons.org/nodemon" /><img height="50" width="50" src="https://cdn.simpleicons.org/handlebarsdotjs/orange" /> <img height="50" width="50" src="https://cdn.simpleicons.org/heroku" /> <img height="50" width="50" src="https://cdn.simpleicons.org/linux" /><img height="50" width="50" src="https://cdn.simpleicons.org/vim" /><img height="50" width="50" src="https://cdn.simpleicons.org/neovim" /><img height="50" width="50" src="https://cdn.simpleicons.org/gnubash" />
+</section>
+</div>
 <h3>Other</h3>
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/blender" /> <img height="32" width="32" src="https://cdn.simpleicons.org/abletonlive/white" />
 
+<div align="center">
+<section style="display: flex; flex-direction: row">
 
+<img width=400  src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelplusultra&show_icons=true&theme=radical&hide=CSS,HTML,EJS,Procfile,SCSS,Handlebars&layout=compact" />
 
+</section>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelplusultra&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 
