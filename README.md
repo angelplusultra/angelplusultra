@@ -106,7 +106,7 @@
 <img height="50" width="50" src="https://cdn.simpleicons.org/three.js/white" />
 <img height="50" width="50" src="https://cdn.simpleicons.org/jsonwebtokens/skyblue" />
 
-
+<h1 align="center">Projects</h1>
 
 
 
@@ -152,5 +152,5 @@ Here are some ideas to get you started:
 
 
 
-<h1>Projects</h1>
+
 
