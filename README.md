@@ -34,20 +34,88 @@
 
 
 <h2>Technologies</h2>
-<div align="center">
-<section  style="display: flex; ">
+
+### Languages
 <img height="50" width="50" src="https://cdn.simpleicons.org/html5" /> <img height="50" width="50" src="https://cdn.simpleicons.org/css3" />
 <img height="50" width="50" src="https://cdn.simpleicons.org/javascript" /> <img height="50" width="50" src="https://cdn.simpleicons.org/typescript" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/react" /><img height="50" width="50" 
-src="https://cdn.simpleicons.org/redux" /><img height="50" width="50" src="https://cdn.simpleicons.org/tailwindcss" /><img height="50" width="50" src="https://cdn.simpleicons.org/bootstrap" /><img height="50" width="50" src="https://cdn.simpleicons.org/mui" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/threedotjs/white" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/node.js" /> <img height="50" width="50" src="https://cdn.simpleicons.org/express/white" /><img height="50" width="50" src="https://cdn.simpleicons.org/mongodb" /><img height="50" width="50" src="https://cdn.simpleicons.org/passport" /><img height="50" width="50" src="https://cdn.simpleicons.org/npm" /><img height="50" width="50" src="https://cdn.simpleicons.org/yarn" />  <img height="50" width="50" src="https://cdn.simpleicons.org/nodemon" /><img height="50" width="50" src="https://cdn.simpleicons.org/handlebarsdotjs/orange" /> <img height="50" width="50" src="https://cdn.simpleicons.org/heroku" /> <img height="50" width="50" src="https://cdn.simpleicons.org/linux" /><img height="50" width="50" src="https://cdn.simpleicons.org/vim" /><img height="50" width="50" src="https://cdn.simpleicons.org/neovim" /><img height="50" width="50" src="https://cdn.simpleicons.org/mysql" /><img height="50" width="50" 
-src="https://cdn.simpleicons.org/gnubash" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/python" />
+
+
+### CSS & Style Libraries
+<img height="50" width="50" src="https://cdn.simpleicons.org/css3" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/tailwindcss" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/bootstrap" />
+
+### React & React Tooling
+<img height="50" width="50" src="https://cdn.simpleicons.org/React" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/reactrouter" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/reactquery" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/reacthookform" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/redux" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/mui" />
+
+### Server Development
+<img height="50" width="50" src="https://cdn.simpleicons.org/node.js" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/tsnode" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/express/white" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/passport" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/strapi" />
+
+
+### Databases & ORM's
+<img height="50" width="50" src="https://cdn.simpleicons.org/mysql" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/postgresql" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/mongodb" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/sequelize" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/prisma/white" />
+<img height="70" width="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />
+
+
+
+### IDE's
+<img height="50" width="50" src="https://cdn.simpleicons.org/vim/" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/neovim/" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/visualstudiocode/" />
+
+### Operating Systems
+
+<img height="50" width="50" src="https://cdn.simpleicons.org/linux/" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/windows/" />
+
+### Other
+
+<img height="50" width="50" src="https://cdn.simpleicons.org/stripe" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/three.js/white" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/jsonwebtokens/skyblue" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/webpack" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/vite/" />
+
+
+
+<img height="50" width="50" src="https://cdn.simpleicons.org/insomnia/" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/postman/" />
+
+
+<img height="50" width="50" src="https://cdn.simpleicons.org/eslint/" />
+
+<img height="50" width="50" src="https://cdn.simpleicons.org/prettier/" />
+
+
+
+
+
+
+
+
+<div align="center">
+<section  style="display: flex; ">
+
+
 </section>
 </div>
 <h3>Other</h3>
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/blender" /> <img height="32" width="32" src="https://cdn.simpleicons.org/abletonlive/white" />
+
 
 <div align="center">
 <section style="display: flex; flex-direction: row">
