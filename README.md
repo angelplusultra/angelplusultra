@@ -82,23 +82,29 @@
 <img height="50" width="50" src="https://cdn.simpleicons.org/linux/" />
 <img height="50" width="50" src="https://cdn.simpleicons.org/windows/" />
 
-### Other
+### Module Bundlers
 
-<img height="50" width="50" src="https://cdn.simpleicons.org/stripe" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/three.js/white" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/jsonwebtokens/skyblue" />
 <img height="50" width="50" src="https://cdn.simpleicons.org/webpack" />
 <img height="50" width="50" src="https://cdn.simpleicons.org/vite/" />
 
+### Deployment
+
+<img height="50" width="50" src="https://cdn.simpleicons.org/railway/purple" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/heroku/" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/render/" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/netlify" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/vercel/white" />
 
 
+
+### Other
 <img height="50" width="50" src="https://cdn.simpleicons.org/insomnia/" />
 <img height="50" width="50" src="https://cdn.simpleicons.org/postman/" />
-
-
 <img height="50" width="50" src="https://cdn.simpleicons.org/eslint/" />
-
 <img height="50" width="50" src="https://cdn.simpleicons.org/prettier/" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/stripe" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/three.js/white" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/jsonwebtokens/skyblue" />
 
 
 
