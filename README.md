@@ -5,13 +5,13 @@
 </section>
   </div>
 
-<h2 align=center>MERN⚔️</h3> 
+<h2 align=center>Mac Fitton, Tarnished Web God </h3> 
 <h2 align=center>Vimpill victim 🥴 ⌨️</h3> 
 <p align=center> 📫 How to reach me:  
   <br/> -macfittondev@gmail.com 
   <br /> -https://twitter.com/HalcyonSkyDev
 <br />
-  Currently learning Redux Toolkit
+  Currently learning Docker 
 </p>
 
 
