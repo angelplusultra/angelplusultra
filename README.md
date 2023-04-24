@@ -7,7 +7,6 @@
 
 <h2 align=center>MERN⚔️</h3> 
 <h2 align=center>Vimpill victim 🥴 ⌨️</h3> 
-<h2 align=center>Occasional threejs/R3F dev🌐</h3> 
 <p align=center> 📫 How to reach me:  
   <br/> -macfittondev@gmail.com 
   <br /> -https://twitter.com/HalcyonSkyDev
