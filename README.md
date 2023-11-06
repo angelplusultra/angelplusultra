@@ -10,7 +10,7 @@
 <p align=center> 📫 How to reach me:  
   <br/> -macfittondev@gmail.com
 <br />
-  Currently learning Docker 
+  Currently learning Electron
 </p>
 
 
