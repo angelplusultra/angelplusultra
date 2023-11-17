@@ -129,7 +129,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelplusultra&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22q3oyrdz4fuyt75j4huwws2a&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 **angelplusultra/angelplusultra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
