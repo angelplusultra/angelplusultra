@@ -6,11 +6,6 @@
   </div>
 
 <h2 align=center>Mac Fitton</h3> 
-<p align=center> 📫 How to reach me:  
-  <br/> 📧 macfittondev@gmail.com
-<br />
-  Currently learning Electron
-</p>
 
 
 
