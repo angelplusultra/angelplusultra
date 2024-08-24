@@ -117,7 +117,7 @@
 <div align="center">
 <section style="display: flex; flex-direction: row">
 
-<img width=400  src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelplusultra&show_icons=true&theme=radical&hide=CSS,HTML,EJS,javascript,Procfile,SCSS,Handlebars&layout=compact" />
+<img width=400  src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelplusultra&show_icons=true&theme=radical&hide=CSS,HTML,EJS,javascript,Procfile,SCSS,Handlebars,Python&layout=compact" />
 
 </section>
 
