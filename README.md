@@ -2,7 +2,7 @@
 
 I'm a **Full Stack Developer** passionate about building robust and innovative software solutions. My work spans from crafting hospitality-focused applications to developing tools that empower fellow developers in their job search and coding workflows.
 
----
+
 
 ## Experience
 
@@ -11,7 +11,7 @@ I'm a **Full Stack Developer** passionate about building robust and innovative s
 - Contributed to streamlining operations and enhancing efficiency in the hospitality industry.
 - [heartofhouse.io](https://heartofhouse.io)
 
----
+
 
 ## Projects
 
@@ -20,7 +20,7 @@ I'm a **Full Stack Developer** passionate about building robust and innovative s
 - Provides personalized job hunting assistance and notifications.
 - Explore the project on [GitHub](https://github.com/angelplusultra/job-shell).
 
----
+
 
 ## Code Planner AI 🚀
 
@@ -28,7 +28,7 @@ Code Planner AI is a GitHub App that generates AI-driven implementation plans fo
 
 Currently in **beta**, I'm inviting developers to try out Code Planner AI and share feedback to help shape its future. Check it out on [GitHub](https://github.com/Code-Planner-AI) and join the beta testing community!
 
----
+
 
 ## Let's Connect
 
