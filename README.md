@@ -1,4 +1,4 @@
-# Hi there, I'm Marcello (Mac) Fitton 👋
+# Hi there, I'm Marcello (Mac) Fitton 👋 
 
 I'm a **Full Stack Developer** passionate about building robust and innovative software solutions. My work spans from crafting hospitality-focused applications to developing tools that empower fellow developers in their job search and coding workflows.
 
@@ -6,23 +6,21 @@ I'm a **Full Stack Developer** passionate about building robust and innovative s
 
 ## Experience
 
-### Heart of House
+### [Heart of House](https://heartofhouse.io)
 - Developed a suite of hospitality software solutions, including an **Inventory Management System SaaS** tailored for bars.
-- Contributed to streamlining operations and enhancing efficiency in the hospitality industry.
-- [heartofhouse.io](https://heartofhouse.io)
+
 
 
 
 ## Projects
 
-### JobShell
+### [JobShell](https://github.com/angelplusultra/job-shell)
 - A software engineer job scraper that integrates with Discord.
 - Provides personalized job hunting assistance and notifications.
-- Explore the project on [GitHub](https://github.com/angelplusultra/job-shell).
 
 
 
-## Code Planner AI 🚀
+## [Code Planner AI](https://github.com/Code-Planner-AI) 🚀
 
 Code Planner AI is a GitHub App that generates AI-driven implementation plans for GitHub Issues. It analyzes your codebase to provide detailed, actionable steps to tackle issues efficiently—whether it’s a bug fix, a new feature, or a system refactor. By eliminating blank-page paralysis, Code Planner AI helps you start with confidence and stay focused on building.
 
