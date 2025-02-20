@@ -15,8 +15,7 @@ I'm a **Full Stack Developer** passionate about building robust and innovative s
 ## Projects
 
 ### [JobShell](https://github.com/angelplusultra/job-shell)
-- A software engineer job scraper that integrates with Discord.
-- Provides personalized job hunting assistance and notifications.
+JobShell is a command-line and Discord-integrated tool designed to streamline the job search process for software engineers. It helps users manage their job hunt from the terminal, avoiding the noise of platforms like LinkedIn. With JobShell, you can scrape job postings from companies you care about, especially those where you have connections. It offers features like bookmarking jobs, drafting personalized messages, and receiving automated job updates via Discord webhooks. JobShell also has an optional AI-powered Smart Criteria feature that filters jobs based on your preferences using the OpenAI API.
 
 
 
@@ -24,7 +23,7 @@ I'm a **Full Stack Developer** passionate about building robust and innovative s
 
 Code Planner AI is a GitHub App that generates AI-driven implementation plans for GitHub Issues. It analyzes your codebase to provide detailed, actionable steps to tackle issues efficiently—whether it’s a bug fix, a new feature, or a system refactor. By eliminating blank-page paralysis, Code Planner AI helps you start with confidence and stay focused on building.
 
-Currently in **beta**, I'm inviting developers to try out Code Planner AI and share feedback to help shape its future. Check it out on [GitHub](https://github.com/Code-Planner-AI) and join the beta testing community!
+Currently in **Proof of Concept (PoC) Launch**, I'm inviting developers to try out Code Planner AI and share feedback to help shape its future. Check it out on [GitHub](https://github.com/Code-Planner-AI) and join the beta testing community!
 
 
 
