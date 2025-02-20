@@ -1,6 +1,5 @@
 # Hi there, I'm Marcello (Mac) Fitton 👋 
-
-I'm a **Full Stack Developer** passionate about building robust and innovative software solutions. My work spans from crafting hospitality-focused applications to developing tools that empower fellow developers in their job search and coding workflows.
+I like making stuff.
 
 
 
