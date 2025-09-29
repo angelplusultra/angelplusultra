@@ -1,5 +1,5 @@
 # Hi there, I'm Marcello (Mac) Fitton 👋 
-Software Engineer @ Mintplex Labs
+Software Engineer @ [Mintplex Labs](https://mintplexlabs.com/)
 
 ## Let's Connect
 
