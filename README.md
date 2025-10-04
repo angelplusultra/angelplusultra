@@ -6,4 +6,3 @@ Software Engineer @ [Mintplex Labs](https://mintplexlabs.com/)
 Feel free to reach out!
 
 [LinkedIn](https://linkedin.com/in/macfittondev) <br>
-Discord: @angelplusultra
