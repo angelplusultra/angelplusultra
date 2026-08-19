@@ -1,12 +1,10 @@
 <h1 align="center">Marcello Fitton</h1>
 
 <p align="center">
-  Full Stack Developer and AI Practitioner building intelligent systems and local-first AI tooling.
+  Full Stack Developer and AI Practitioner building agentic systems and local-first AI tooling.
 </p>
 
-<p align="center">
-  Currently helping build <a href="https://anythingllm.com">AnythingLLM</a> at <a href="https://mintplexlabs.com">Mintplex Labs</a> (YC).
-</p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/macfittondev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
